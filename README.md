@@ -11,7 +11,7 @@ This repository contains Excel assignment focused on data manipulation, extracti
 * Determined the **Average, Minimum, and Maximum** product prices using `AVERAGE`, `MIN`, and `MAX`.
 
 ### 2. Logical & Conditional Functions
-* **IF Function:** Created a `Price Range` column to categorize products priced at $500 or higher as 'High Price'.
+* **IF Function:** Created a `Price Range` column to categorize products priced at **$500** or higher as 'High Price'.
 * **SUMIF Function:** Calculated the total price specifically for items in the **Electronics** category.
 * **COUNTIF Function:** Counted the total number of products priced under **$100**.
 
