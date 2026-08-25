@@ -7,7 +7,7 @@ This repository contains Excel assignment focused on data manipulation, extracti
 
 ### 1. Descriptive Statistics
 * Calculated the **Total Price** of all products using `SUM`.
-* Counted the total number of products using `COUNT`.
+* Counted the total number of products using `COUNTA`.
 * Determined the **Average, Minimum, and Maximum** product prices using `AVERAGE`, `MIN`, and `MAX`.
 
 ### 2. Logical & Conditional Functions
