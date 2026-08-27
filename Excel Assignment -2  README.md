@@ -5,16 +5,16 @@ This repository contains a cleaned, structured, and standardized dataset derived
 
 ## Repository Files
 
-* `Final_Cleaned_Dataset.xlsx` - Master Excel workbook containing all completed tasks and clean datasets.
+* `Assignment 2 - Data Cleaning and Transformation.xlsx` - Master Excel workbook containing all completed tasks and clean datasets.
 * `assignment-docs/` - Folder containing original task PDF instructions.
 
 ## Task Documentation Links
 
-* [Task 1 - Missing Value Imputation](assignment-docs/Task 1 - Missing Value.pdf)
-* [Task 2 - Text Standardization](assignment-docs/Task 2 - Text Standardization.pdf)
-* [Task 3 - Text to Columns Delimiter Setup](assignment-docs/Task 3 - Text to Columns Delimiter Setup.pdf)
-* [Task 4 - Date Parsing & Currency Formatting](assignment-docs/Task 4 - Date Parsing & Currency Formatting.pdf)
-* [Task 5 - Final Dataset with Conditional Formatting](assignment-docs/Task 5 - Final Dataset with Conditional Formatting.pdf)
+* [Task 1 - Missing Value Imputation](assignment-docs/Task%201%20-%20Missing%20Value.pdf)
+* [Task 2 - Text Standardization](assignment-docs/Task%202%20-%20Text%20Standardization.pdf)
+* [Task 3 - Text to Columns Delimiter Setup](assignment-docs/Task%203%20-%20Text%20to%20Columns%20Delimiter%20Setup.pdf)
+* [Task 4 - Date Parsing & Currency Formatting](assignment-docs/Task%204%20-%20Date%20Parsing%20%26%20Currency%20Formatting.pdf)
+* [Task 5 - Final Dataset with Conditional Formatting](assignment-docs/Task%205%20-%20Final%20Dataset%20with%20Conditional%20Formatting.pdf)
 
 ## Summary of Completed Tasks
 
